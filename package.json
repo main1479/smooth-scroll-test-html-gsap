@@ -1,0 +1,20 @@
+{
+  "name": "smoothy",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "gsap": "^3.11.2",
+    "mouse-follower": "^1.1.2",
+    "sass": "^1.55.0",
+    "smooth-scrollbar": "^8.8.1"
+  }
+}
